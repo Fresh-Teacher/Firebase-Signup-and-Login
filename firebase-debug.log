@@ -1,0 +1,130 @@
+[debug] [2019-10-29T00:23:18.649Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T00:23:18.652Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ervis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-10-29T00:23:18.652Z] CLI Version:   7.6.1
+[debug] [2019-10-29T00:23:18.652Z] Platform:      win32
+[debug] [2019-10-29T00:23:18.652Z] Node Version:  v12.13.0
+[debug] [2019-10-29T00:23:18.653Z] Time:          Tue Oct 29 2019 01:23:18 GMT+0100 (Central European Standard Time)
+[debug] [2019-10-29T00:23:18.653Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T00:23:18.653Z] 
+[debug] [2019-10-29T00:23:18.659Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T00:23:18.660Z] > authorizing via signed-in user
+[debug] [2019-10-29T00:23:18.660Z] [iam] checking project pscourse-97e95 for permissions ["firebase.projects.get"]
+[debug] [2019-10-29T00:23:18.661Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/pscourse-97e95:testIamPermissions  
+
+[debug] [2019-10-29T00:23:19.061Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T00:23:19.065Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95  
+ 
+[debug] [2019-10-29T00:23:19.426Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'c:\Exercise Files\m02\02_04\End\App'...
+[info] 
+[debug] [2019-10-29T00:23:19.429Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95/webApps/-/config  
+ 
+[debug] [2019-10-29T00:23:19.981Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+[debug] [2019-10-29T00:39:06.485Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T00:39:06.488Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ervis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-10-29T00:39:06.488Z] CLI Version:   7.6.1
+[debug] [2019-10-29T00:39:06.488Z] Platform:      win32
+[debug] [2019-10-29T00:39:06.488Z] Node Version:  v12.13.0
+[debug] [2019-10-29T00:39:06.488Z] Time:          Tue Oct 29 2019 01:39:06 GMT+0100 (Central European Standard Time)
+[debug] [2019-10-29T00:39:06.488Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T00:39:06.489Z] 
+[debug] [2019-10-29T00:39:06.496Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T00:39:06.496Z] > authorizing via signed-in user
+[debug] [2019-10-29T00:39:06.496Z] [iam] checking project pscourse-97e95 for permissions ["firebase.projects.get"]
+[debug] [2019-10-29T00:39:06.497Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/pscourse-97e95:testIamPermissions  
+
+[debug] [2019-10-29T00:39:06.891Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T00:39:06.896Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95  
+ 
+[debug] [2019-10-29T00:39:07.295Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'c:\Exercise Files\m02\02_05\End\App'...
+[info] 
+[debug] [2019-10-29T00:39:07.302Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95/webApps/-/config  
+ 
+[debug] [2019-10-29T00:39:07.826Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+[debug] [2019-10-29T01:16:11.852Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:16:11.855Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ervis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-10-29T01:16:11.855Z] CLI Version:   7.6.1
+[debug] [2019-10-29T01:16:11.855Z] Platform:      win32
+[debug] [2019-10-29T01:16:11.855Z] Node Version:  v12.13.0
+[debug] [2019-10-29T01:16:11.855Z] Time:          Tue Oct 29 2019 02:16:11 GMT+0100 (Central European Standard Time)
+[debug] [2019-10-29T01:16:11.855Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:16:11.856Z] 
+[debug] [2019-10-29T01:16:11.861Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T01:16:11.862Z] > authorizing via signed-in user
+[debug] [2019-10-29T01:16:11.862Z] [iam] checking project pscourse-97e95 for permissions ["firebase.projects.get"]
+[debug] [2019-10-29T01:16:11.863Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2019-10-29T01:16:11.864Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2019-10-29T01:16:12.156Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T01:16:12.169Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/pscourse-97e95:testIamPermissions  
+
+[debug] [2019-10-29T01:16:13.117Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T01:16:13.120Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95  
+ 
+[debug] [2019-10-29T01:16:13.470Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'c:\Exercise Files\m02\02_06\End\App'...
+[info] 
+[debug] [2019-10-29T01:16:13.479Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95/webApps/-/config  
+ 
+[debug] [2019-10-29T01:16:14.091Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
+[debug] [2019-10-29T01:37:01.106Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:37:01.109Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ervis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-10-29T01:37:01.109Z] CLI Version:   7.6.1
+[debug] [2019-10-29T01:37:01.109Z] Platform:      win32
+[debug] [2019-10-29T01:37:01.109Z] Node Version:  v12.13.0
+[debug] [2019-10-29T01:37:01.110Z] Time:          Tue Oct 29 2019 02:37:01 GMT+0100 (Central European Standard Time)
+[debug] [2019-10-29T01:37:01.110Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:37:01.110Z] 
+[debug] [2019-10-29T01:37:01.117Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T01:37:01.117Z] > authorizing via signed-in user
+[debug] [2019-10-29T01:37:01.117Z] [iam] checking project pscourse-97e95 for permissions ["firebase.projects.get"]
+[debug] [2019-10-29T01:37:01.118Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/pscourse-97e95:testIamPermissions  
+
+[debug] [2019-10-29T01:37:01.497Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T01:37:01.503Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95  
+ 
+[debug] [2019-10-29T01:37:01.927Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'c:\Exercise Files\m02\02_07\Start\App'...
+[info] 
+[debug] [2019-10-29T01:37:01.934Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95/webApps/-/config  
+ 
+[debug] [2019-10-29T01:37:02.505Z] <<< HTTP RESPONSE 200
+[warn] !  hosting: Port 5000 is not available. Trying another port...
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5005
+[debug] [2019-10-29T01:50:27.340Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:50:27.343Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ervis\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js serve
+[debug] [2019-10-29T01:50:27.343Z] CLI Version:   7.6.1
+[debug] [2019-10-29T01:50:27.343Z] Platform:      win32
+[debug] [2019-10-29T01:50:27.343Z] Node Version:  v12.13.0
+[debug] [2019-10-29T01:50:27.344Z] Time:          Tue Oct 29 2019 02:50:27 GMT+0100 (Central European Standard Time)
+[debug] [2019-10-29T01:50:27.344Z] ----------------------------------------------------------------------
+[debug] [2019-10-29T01:50:27.344Z] 
+[debug] [2019-10-29T01:50:27.351Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-29T01:50:27.351Z] > authorizing via signed-in user
+[debug] [2019-10-29T01:50:27.351Z] [iam] checking project pscourse-97e95 for permissions ["firebase.projects.get"]
+[debug] [2019-10-29T01:50:27.353Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/pscourse-97e95:testIamPermissions  
+
+[debug] [2019-10-29T01:50:28.307Z] <<< HTTP RESPONSE 200
+[debug] [2019-10-29T01:50:28.308Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95  
+ 
+[debug] [2019-10-29T01:50:28.729Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'c:\Exercise Files\m02\02_07\End\App'...
+[info] 
+[debug] [2019-10-29T01:50:28.732Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/pscourse-97e95/webApps/-/config  
+ 
+[debug] [2019-10-29T01:50:29.407Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] +  hosting: Local server: http://localhost:5000
